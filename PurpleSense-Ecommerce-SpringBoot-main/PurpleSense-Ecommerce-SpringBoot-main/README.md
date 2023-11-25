@@ -1,2 +1,3 @@
 # Purple Sense
-Simple product create, add to cart order.
+Your Beauty Shopping
+Destination
